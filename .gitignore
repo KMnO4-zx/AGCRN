@@ -8,9 +8,9 @@ gpu_task.py
 cmd.sh
 
 # file
-*.npz
+# *.npz
 *.npy
-*.csv
+# *.csv
 *.pkl
 *.h5
 *.pt
