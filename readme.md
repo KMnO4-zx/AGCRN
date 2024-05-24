@@ -10,6 +10,14 @@ This folder concludes the code and data of our AGCRN model: [Adaptive Graph Conv
 
 * model: implementation of our AGCRN model
 
+## Run
+
+- 在`model.ipynb`文件中有对`AGCRN`模型的详细注释，以及每个模块单独运行的测试代码。
+
+- 在`data`目录下存放有数据集文件，数据格式为`npz`格式，可以直接使用`np.load`加载。
+
+- 进入`model`目录，直接运行`python Run.py --mode train`即可开始训练模型。
+
 
 ## Requirements
 
