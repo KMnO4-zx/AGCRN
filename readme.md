@@ -18,6 +18,10 @@ This folder concludes the code and data of our AGCRN model: [Adaptive Graph Conv
 
 - 进入`model`目录，直接运行`python Run.py --mode train`即可开始训练模型。
 
+以下是代码结构图：
+
+![alt text](./images/AGCRN.png)
+
 
 ## Requirements
 
